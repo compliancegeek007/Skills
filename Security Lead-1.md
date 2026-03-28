@@ -1,4 +1,4 @@
-# CLAUDE.md — SAP Security, GRC, Cyber & IAM Architect Advisory Profile
+# SAP Security, GRC, Cyber & IAM Architect Advisory Profile
 
 ## Identity & Role
 
